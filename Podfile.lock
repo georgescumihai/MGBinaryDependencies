@@ -1,0 +1,18 @@
+PODS:
+  - MGSDK (1.0):
+    - MGSDK/Xcode10 (= 1.0)
+  - MGSDK/Xcode10 (1.0)
+
+DEPENDENCIES:
+  - MGSDK (from `https://raw.githubusercontent.com/georgescumihai/MGRelease/master/MGSDK.podspec`)
+
+EXTERNAL SOURCES:
+  MGSDK:
+    :podspec: https://raw.githubusercontent.com/georgescumihai/MGRelease/master/MGSDK.podspec
+
+SPEC CHECKSUMS:
+  MGSDK: 0eb695c3d1e4b9cbb081ecb7aa9fd8331c4fab2f
+
+PODFILE CHECKSUM: a0c9088f9d6c68bf4116cb59513b0818898c25fa
+
+COCOAPODS: 1.5.3
